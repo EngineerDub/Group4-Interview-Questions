@@ -1,0 +1,18 @@
+What is Kubernetes?
+What is your experience wih Kubernetes?
+Describe the Kubernetes architecture and the components
+What are the features of Kubernetes?
+What are Kubernetes objects?
+What is a Pod? What are the two model types?
+What is a ReplicaSet?
+What is a Deployment?
+What is a Service?
+What are namepaces and what are they used for?
+Describe the Pod lifecycle
+List and describe the different types of Kubernetes deployment strategies. How are they used?
+What is a configmap?
+What are Livenenss and Readiness probes
+Describe how end user traffic gets to your Kubernetes cluster
+What is a Kubernetes Ingress
+Share a problem you experienced using Kubernetes and how did you resolve it. 
+Describe Kubernetes best practices
