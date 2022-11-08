@@ -2,3 +2,10 @@ Tell me about your experience with git?
 What are some of the git best practices you have implemented in your organisation?
 Can you tell me some of the problems you have come accross while using git?
 How do you connect git to jenkins?
+In git how do you revert a commit that has already been pushed and made public?
+what is git bisect? how can you use it to determine the source of a regression bug?
+what is git rebase? how can it be used to solve problems in the feature branch befoere merge?
+How do you configure a git repo to run code sanity checking tools right before making commits, and preventing them if the test fails?
+How do you find the list of files that has changed in a particular commit?
+How do you set a scrpt to run each time a repository recieves new commits through push?
+How will you know in git if a branch has already been merge into master?
