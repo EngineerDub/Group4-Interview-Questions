@@ -16,3 +16,4 @@ Describe how end user traffic gets to your Kubernetes cluster
 What is a Kubernetes Ingress
 Share a problem you experienced using Kubernetes and how did you resolve it. 
 Describe Kubernetes best practices
+how can we make sure our k8s cluster work constant without downtime?
